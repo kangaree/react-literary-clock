@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-literature-clock/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-literature-clock/static/js/main.7eeac19f.chunk.js",
-    "main.js.map": "/react-literature-clock/static/js/main.7eeac19f.chunk.js.map",
-    "runtime-main.js": "/react-literature-clock/static/js/runtime-main.2c5caeaf.js",
-    "runtime-main.js.map": "/react-literature-clock/static/js/runtime-main.2c5caeaf.js.map",
-    "static/js/2.6c322779.chunk.js": "/react-literature-clock/static/js/2.6c322779.chunk.js",
-    "static/js/2.6c322779.chunk.js.map": "/react-literature-clock/static/js/2.6c322779.chunk.js.map",
-    "index.html": "/react-literature-clock/index.html",
-    "precache-manifest.8bcb8185b1457715cd9728d8bd4e1de4.js": "/react-literature-clock/precache-manifest.8bcb8185b1457715cd9728d8bd4e1de4.js",
-    "service-worker.js": "/react-literature-clock/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/react-literature-clock/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.6c322779.chunk.js.LICENSE.txt": "/react-literature-clock/static/js/2.6c322779.chunk.js.LICENSE.txt"
+    "main.css": "/react-literary-clock/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-literary-clock/static/js/main.efcabd73.chunk.js",
+    "main.js.map": "/react-literary-clock/static/js/main.efcabd73.chunk.js.map",
+    "runtime-main.js": "/react-literary-clock/static/js/runtime-main.bc56adb0.js",
+    "runtime-main.js.map": "/react-literary-clock/static/js/runtime-main.bc56adb0.js.map",
+    "static/js/2.a93a3d93.chunk.js": "/react-literary-clock/static/js/2.a93a3d93.chunk.js",
+    "static/js/2.a93a3d93.chunk.js.map": "/react-literary-clock/static/js/2.a93a3d93.chunk.js.map",
+    "index.html": "/react-literary-clock/index.html",
+    "precache-manifest.f2ad441e9dce2e3051c1ff8d489ba3e3.js": "/react-literary-clock/precache-manifest.f2ad441e9dce2e3051c1ff8d489ba3e3.js",
+    "service-worker.js": "/react-literary-clock/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-literary-clock/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a93a3d93.chunk.js.LICENSE.txt": "/react-literary-clock/static/js/2.a93a3d93.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2c5caeaf.js",
-    "static/js/2.6c322779.chunk.js",
+    "static/js/runtime-main.bc56adb0.js",
+    "static/js/2.a93a3d93.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.7eeac19f.chunk.js"
+    "static/js/main.efcabd73.chunk.js"
   ]
 }
